@@ -63,3 +63,11 @@ or
 <h2>Contributing</h2>
 
 *Contributions are welcome! Please open an issue or submit a pull request if you have suggestions for improvements or new features.*
+
+## Design docs
+
+| Doc | What's inside |
+|---|---|
+| [High-Level Design](docs/hld.md) | Architecture, components, data flow, tech choices, deployment |
+| [Low-Level Design](docs/lld.md) | Modules, data models, APIs and functions, key sequences |
+
